@@ -1,0 +1,7 @@
+config/databases.yml
+cache/*
+log/*
+web/uploads/*
+
+*.swp
+*.swo

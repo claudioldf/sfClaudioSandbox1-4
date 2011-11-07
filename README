@@ -1,0 +1,10 @@
+Esqueleto do sandbox com algumas customizações.
+
+Por exemplo:
+- Frontend passou a ser "site"
+- setting.yml já inclui os params de i18n, charset, entre outros.
+- Já vem incluido a lib do jquery 1.7
+- E incluí o script init.js para inicialização do jquery.
+- Helper extrai18n (function image_tag_i18n)
+- Paths de |images, js, css| já previsto para i18n (images/pt|en|es)
+- Widget custom (simples modelo)
